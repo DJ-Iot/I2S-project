@@ -11,6 +11,7 @@ Amplifier: MAX98357A I2S 3W Class D Amplifier
 Interface: I2S (Inter-IC Sound)
 IDE: Code Composer Studio (CCS)
 Audio Software: Audacity for editing and storing audio files
+
 **Features:**
 Input-Driven Audio Playback: Plays specific pre-stored audio files based on input signals.
 High-Quality Audio Output: Uses the I2S interface for clear audio transmission.
